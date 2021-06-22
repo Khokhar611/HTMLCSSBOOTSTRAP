@@ -1,0 +1,128 @@
+#header{
+    color:#fff;
+    background-color: #e7e;
+}
+.circle{
+    border: 2px solid #ff0000;
+    border-radius: 40px;
+    width: 70px;
+    height: 70px;
+}
+#menu{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color: #fff;
+    padding: 15px 12px;
+    display: block;
+    text-decoration: none;
+}
+#menu li a:hover{
+    background-color: aqua;
+    color: black;
+}
+#logo{
+
+    padding-left: 90px;
+    
+}
+#logo a{
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+
+}
+img{
+    height: 400px;
+}
+#banner{
+    background-image: url('bgimg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.title{
+ color: #e7e;
+ background-color: #fff;
+}
+.lead{
+    color: #fff;
+    background-color: #e7e;
+}
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.section h2.section-head{
+color: #e7e;
+text-align: center;
+margin-bottom: 35px;
+font-size: 56px;
+}
+.section h2.section-head:after{
+    background-color: #e7e;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 5px;
+    margin: 30px auto;
+}
+.section h3{
+    text-align: center;
+}
+.section p{
+    text-align: center;
+}
+.service-box i{
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+video{
+    width: 600px;
+    height: 300px;
+}
+.form{
+    text-align: center;
+    background-color:lightgray;
+}
+.form input{
+    border-radius: 15px;
+    width: 200px;
+    height: 30px;
+}
+.form label{
+    font-size: 35px;
+}
+#footer{
+    list-style: none;
+}
+#footer li{
+    display: inline-block;
+}
+#footer li a{
+    color: rgb(236, 15, 15);
+    padding: 15px 12px;
+    display: block;
+    text-decoration: none;
+}
+#footer li a:hover{
+    background-color: aqua;
+    color: black;
+}
+#footer i{
+    font-size: 30px;
+}
+#footer1{
+    background-color: aliceblue;
+}

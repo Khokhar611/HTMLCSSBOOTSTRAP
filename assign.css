@@ -1,0 +1,86 @@
+article#art [city].new{
+    color: bisque;
+    background-color: blue;
+}
+.section[class] aside#div{
+    color:yellow;
+    background-color: blue;
+}    
+[sub]#new section#section div.cities{
+    background-color: violet;
+    color: turquoise;
+
+    
+} 
+
+table{
+    color: rgb(227, 227, 238);
+    background-color: red;
+}
+tr{
+    color: aqua;
+}
+h2{
+    color: brown;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+/* div{
+    color: red;
+    background-color: aqua; */
+/* } */
+div ul{
+    text-decoration: none;
+}
+ul li{
+    display: inline-block;
+    font-size: 40px;
+    width: 300px;
+}
+ul li:hover{
+    color: black;
+    background-color: white;
+    border: 3px solid blue;
+    box-shadow: 20px;
+}
+.home3{
+    color: red;
+    background-color: blue;
+}
+#heading{
+    color: aliceblue;
+
+}
+.pak #good{
+    color: aqua;
+    font-size: 50px;
+    background-color: blue ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div > ul > li >a {
+    color: rgb(208, 243, 10);
+    background-color: magenta;
+}
+.container{
+    background-color: blueviolet;
+}       
+.container .row{
+    display: flex;
+    text-align: center;
+}
+.container .row .col#heading1{
+background-color: yellow;
+color: black;
+}
+.container .row .col#heading2{
+background-color: rgb(59, 4, 185);
+color: rgb(252, 249, 249);
+}
+.container .row .col#heading3{
+background-color: rgb(255, 0, 64);
+color: black;
+margin-right: 30px;
+
+}
